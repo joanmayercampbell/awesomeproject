@@ -1,0 +1,19 @@
+﻿.jumbotron {
+    background-image:url(lobster-1515460.jpg);
+    background-size:cover;
+    background-position:center center;
+}
+.jumbotron .whitespace {
+    background-color:black;
+    color:red;
+    text-align:center;
+}
+.feature {
+    text-align:center;
+}
+.feature .glyphicon {
+    font-size: 400%;
+}
+.feature .glyphicon-apple {
+    color:red;
+}
