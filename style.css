@@ -3,7 +3,7 @@
     background-size:cover;
     background-position:center center;
 }
-.jumbotron .whitespace {
+.jumbotron .blackspace {
     background-color:black;
     color:red;
     text-align:center;
@@ -16,4 +16,19 @@
 }
 .feature .glyphicon-apple {
     color:red;
+}
+button
+{
+-webkit-appearance: none;
+outline: none;
+border: 0;
+background: transparent;
+}
+#fasthorders {
+    text-align:center;
+    padding:0 50px;
+}
+#freshorders {
+    text-align:center;
+    padding:0 50px;
 }
